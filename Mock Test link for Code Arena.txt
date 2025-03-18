@@ -1,0 +1,12 @@
+Mock Test link for Code Arena :
+
+Round 1 : 
+
+	Python : https://forms.gle/B8NxL8w9nCAQzowt9
+	Java : https://forms.gle/3iVDBuCFDqEXH6R6A
+	C Program : https://forms.gle/TQSnfd9bUb2RJFE58
+
+Round 2 :
+	www.hackerrank.com/code-arena-mock-testing
+
+The round: 2 test mock testing consist of 10 sample questions from each language.
