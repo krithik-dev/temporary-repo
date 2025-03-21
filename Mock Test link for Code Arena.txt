@@ -2,9 +2,9 @@ Mock Test link for Code Arena :
 
 Round 1 : 
 
-	Python : https://forms.gle/B8NxL8w9nCAQzowt9
-	Java : https://forms.gle/3iVDBuCFDqEXH6R6A
-	C Program : https://forms.gle/TQSnfd9bUb2RJFE58
+	Python : https://forms.gle/RKAcYk1A5e1h9wTw5
+	Java : https://forms.gle/BscT5vnpeFKpaGgs9
+	C Program : https://forms.gle/AAhdrRBHNx3dC9udA
 
 Round 2 :
 	www.hackerrank.com/code-arena-mock-testing
